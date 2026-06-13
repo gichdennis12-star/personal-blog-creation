@@ -1,1 +1,1 @@
-google.com, pub-7982441897989391, DIRECT, f08c47fec0942fa0
+https://github.com/gichdennis12-star/personal-blog-creation/blob/main/README.md?id=1268359808

@@ -1,1 +1,1 @@
-# personal-blog-creation
+google.com, pub-7982441897989391, DIRECT, f08c47fec0942fa0

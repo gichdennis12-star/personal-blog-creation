@@ -27,13 +27,13 @@ export default function PrivacyPolicy() {
       <p>I use Vercel for hosting and Google services for analytics and advertising.</p>
 
       <h2>6. Data Sharing</h2>
-      <p>I do not sell your personal data. Information may be shared only when required by law or with trusted service providers who help operate the site.</p>
+      <p>I do not sell your personal data. Information may be shared only when required by law or with trusted service providers.</p>
 
       <h2>7. Your Rights</h2>
       <p>You can request to access, correct, or delete your personal information by contacting me at hello@dennisgitau.dev.</p>
 
       <h2>8. Contact</h2>
-      <p>If you have any questions about this Privacy Policy, feel free to reach out to me at: <strong>hello@dennisgitau.dev</strong></p>
+      <p>If you have any questions, feel free to reach out at: <strong>hello@dennisgitau.dev</strong></p>
     </div>
   );
 }

@@ -756,4 +756,46 @@ export function formatDate(date: string) {
       text: 'Would you like me to do a deep dive on any specific part of the stack?'
     }
   ]
+},{
+  slug: 'reality-of-self-taught-developer-nairobi',
+  title: 'The Reality of Being a Self-Taught Developer in Nairobi in 2026',
+  excerpt: 'The real challenges and opportunities of learning to code and building a career in tech from Nairobi.',
+  date: '2026-06-17',
+  readingTime: '11 min read',
+  category: 'Personal Growth',
+  cover: '/posts/nairobi-developer-reality.png',
+  content: [
+    {
+      type: 'p',
+      text: 'There’s a romanticized version of tech in Africa, and then there’s the reality.'
+    },
+    {
+      type: 'h2',
+      text: 'The Good'
+    },
+    {
+      type: 'p',
+      text: 'Incredible community support, growing number of opportunities, and a cost of living that allows focus on learning.'
+    },
+    {
+      type: 'h2',
+      text: 'The Challenges'
+    },
+    {
+      type: 'p',
+      text: 'Unreliable internet and power outages, limited junior roles, and expensive learning resources.'
+    },
+    {
+      type: 'h2',
+      text: 'My Survival Strategy'
+    },
+    {
+      type: 'p',
+      text: 'Building in public, contributing to open source, and creating my own projects instead of just following tutorials.'
+    },
+    {
+      type: 'p',
+      text: 'If you’re a developer in Nairobi or any African city, I’d love to hear your story in the comments.'
+    }
+  ]
 },}

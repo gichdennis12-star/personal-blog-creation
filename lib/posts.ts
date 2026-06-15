@@ -798,4 +798,4 @@ export function formatDate(date: string) {
       text: 'If you’re a developer in Nairobi or any African city, I’d love to hear your story in the comments.'
     }
   ]
-},}
+}

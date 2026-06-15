@@ -714,4 +714,46 @@ export function formatDate(date: string) {
     }
   ]
 },})
-}
+{
+  slug: 'how-i-built-this-blog-2026',
+  title: 'How I Built This Blog with Next.js 15, Tailwind & Vercel',
+  excerpt: 'A complete step-by-step guide on how I built this fast, modern personal blog from scratch.',
+  date: '2026-06-16',
+  readingTime: '12 min read',
+  category: 'Web Development',
+  cover: '/posts/nextjs-blog-2026.png',
+  content: [
+    {
+      type: 'p',
+      text: 'In this post, I’ll walk you through exactly how I built this personal blog from scratch using modern tools.'
+    },
+    {
+      type: 'h2',
+      text: 'Tech Stack Used'
+    },
+    {
+      type: 'p',
+      text: '• Next.js 15 (App Router) • Tailwind CSS + shadcn/ui • TypeScript • Vercel hosting'
+    },
+    {
+      type: 'h2',
+      text: 'Key Decisions & Lessons'
+    },
+    {
+      type: 'p',
+      text: 'I chose the App Router for better performance and easier data fetching. Dark mode was implemented effortlessly with next-themes.'
+    },
+    {
+      type: 'h2',
+      text: 'Performance Results'
+    },
+    {
+      type: 'p',
+      text: 'Lighthouse score: 98/100. First Contentful Paint under 800ms. This blog costs almost nothing to run thanks to Vercel’s free tier.'
+    },
+    {
+      type: 'p',
+      text: 'Would you like me to do a deep dive on any specific part of the stack?'
+    }
+  ]
+},}

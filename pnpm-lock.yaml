@@ -1,0 +1,11 @@
+Fix the broken pnpm lockfile.
+
+Actions:
+
+1. Delete the existing pnpm-lock.yaml file.
+2. Run a fresh dependency resolution.
+3. Execute "pnpm install --no-frozen-lockfile".
+4. Regenerate a complete pnpm-lock.yaml.
+5. Ensure all dependencies, including @base-ui/react, are properly recorded in the lockfile.
+6. Commit the regenerated pnpm-lock.yaml.
+7. Verify that "pnpm install" and "pnpm build" complete successfully on Vercel.

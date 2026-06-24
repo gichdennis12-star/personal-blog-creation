@@ -237,5 +237,565 @@ export function formatDate(date: string) {
     year: 'numeric',
     month: 'long',
     day: 'numeric',
-  })
+ {
+  slug: 'learning-in-public-one-year-later',
+  title: 'Learning in Public: One Year Later – Lessons from Building in the Open',
+  excerpt: 'One year of sharing my learning journey openly as a developer in Nairobi. What worked, what failed, and why I recommend it.',
+  date: '2026-06-15',
+  readingTime: '9 min read',
+  category: 'Personal Growth',
+  cover: '/posts/learning-in-public.png',
+  content: [
+    {
+      type: 'p',
+      text: 'I still remember the terror I felt hitting "Publish" on my first blog post one year ago. What if people laughed? What if I made mistakes in public?'
+    },
+    {
+      type: 'h2',
+      text: 'What Changed'
+    },
+    {
+      type: 'p',
+      text: 'My coding confidence increased dramatically. I built a much stronger network. I learned faster because I had to explain concepts clearly.'
+    },
+    {
+      type: 'h2',
+      text: 'Biggest Lessons'
+    },
+    {
+      type: 'p',
+      text: '1. Your "unfinished" work is valuable. 2. Document your mistakes. 3. Consistency beats perfection.'
+    },
+    {
+      type: 'p',
+      text: 'The fear never fully goes away, but it gets quieter. If you\'re hesitating to share your learning journey, this is your sign.'
+    }
+  ]
+},{
+  slug: 'learning-in-public-one-year-later',
+  title: 'Learning in Public: One Year Later – Lessons from Building in the Open',
+  excerpt: 'One year of sharing my learning journey openly as a developer in Nairobi. What worked, what failed, and why I recommend it.',
+  date: '2026-06-15',
+  readingTime: '9 min read',
+  category: 'Personal Growth',
+  cover: '/posts/learning-in-public.png',
+  content: [
+    {
+      type: 'p',
+      text: 'I still remember the terror I felt hitting "Publish" on my first blog post one year ago. What if people laughed? What if I made mistakes in public?'
+    },
+    {
+      type: 'h2',
+      text: 'What Changed'
+    },
+    {
+      type: 'p',
+      text: 'My coding confidence increased dramatically. I built a much stronger network. I learned faster because I had to explain concepts clearly.'
+    },
+    {
+      type: 'h2',
+      text: 'Biggest Lessons'
+    },
+    {
+      type: 'p',
+      text: '1. Your "unfinished" work is valuable. 2. Document your mistakes. 3. Consistency beats perfection.'
+    },
+    {
+      type: 'p',
+      text: 'The fear never fully goes away, but it gets quieter. If you\'re hesitating to share your learning journey, this is your sign.'
+    }
+  ]
+}, {
+  slug: 'learning-in-public-one-year-later',
+  title: 'Learning in Public: One Year Later – Lessons from Building in the Open',
+  excerpt: 'One year of sharing my learning journey openly as a developer in Nairobi. What worked, what failed, and why I recommend it.',
+  date: '2026-06-15',
+  readingTime: '9 min read',
+  category: 'Personal Growth',
+  cover: '/posts/learning-in-public.png',
+  content: [
+    {
+      type: 'p',
+      text: 'I still remember the terror I felt hitting "Publish" on my first blog post one year ago. What if people laughed? What if I made mistakes in public?'
+    },
+    {
+      type: 'h2',
+      text: 'What Changed'
+    },
+    {
+      type: 'p',
+      text: 'My coding confidence increased dramatically. I built a much stronger network. I learned faster because I had to explain concepts clearly.'
+    },
+    {
+      type: 'h2',
+      text: 'Biggest Lessons'
+    },
+    {
+      type: 'p',
+      text: '1. Your "unfinished" work is valuable. 2. Document your mistakes. 3. Consistency beats perfection.'
+    },
+    {
+      type: 'p',
+      text: 'The fear never fully goes away, but it gets quieter. If you\'re hesitating to share your learning journey, this is your sign.'
+    }
+  ]
+},{
+  slug: 'learning-in-public-one-year-later',
+  title: 'Learning in Public: One Year Later – Lessons from Building in the Open',
+  excerpt: 'One year of sharing my learning journey openly as a developer in Nairobi. What worked, what failed, and why I recommend it.',
+  date: '2026-06-15',
+  readingTime: '9 min read',
+  category: 'Personal Growth',
+  cover: '/posts/learning-in-public.png',
+  content: [
+    {
+      type: 'p',
+      text: 'I still remember the terror I felt hitting "Publish" on my first blog post one year ago. What if people laughed? What if I made mistakes in public?'
+    },
+    {
+      type: 'h2',
+      text: 'What Changed'
+    },
+    {
+      type: 'p',
+      text: 'My coding confidence increased dramatically. I built a much stronger network. I learned faster because I had to explain concepts clearly.'
+    },
+    {
+      type: 'h2',
+      text: 'Biggest Lessons'
+    },
+    {
+      type: 'p',
+      text: '1. Your "unfinished" work is valuable. 2. Document your mistakes. 3. Consistency beats perfection.'
+    },
+    {
+      type: 'p',
+      text: 'The fear never fully goes away, but it gets quieter. If you\'re hesitating to share your learning journey, this is your sign.'
+    }
+  ]
+},{
+  slug: 'learning-in-public-one-year-later',
+  title: 'Learning in Public: One Year Later – Lessons from Building in the Open',
+  excerpt: 'One year of sharing my learning journey openly as a developer in Nairobi. What worked, what failed, and why I recommend it.',
+  date: '2026-06-15',
+  readingTime: '9 min read',
+  category: 'Personal Growth',
+  cover: '/posts/learning-in-public.png',
+  content: [
+    {
+      type: 'p',
+      text: 'I still remember the terror I felt hitting "Publish" on my first blog post one year ago. What if people laughed? What if I made mistakes in public?'
+    },
+    {
+      type: 'h2',
+      text: 'What Changed'
+    },
+    {
+      type: 'p',
+      text: 'My coding confidence increased dramatically. I built a much stronger network. I learned faster because I had to explain concepts clearly.'
+    },
+    {
+      type: 'h2',
+      text: 'Biggest Lessons'
+    },
+    {
+      type: 'p',
+      text: '1. Your "unfinished" work is valuable. 2. Document your mistakes. 3. Consistency beats perfection.'
+    },
+    {
+      type: 'p',
+      text: 'The fear never fully goes away, but it gets quieter. If you\'re hesitating to share your learning journey, this is your sign.'
+    }
+  ]
+}{
+  slug: 'learning-in-public-one-year-later',
+  title: 'Learning in Public: One Year Later – Lessons from Building in the Open',
+  excerpt: 'One year of sharing my learning journey openly as a developer in Nairobi. What worked, what failed, and why I recommend it.',
+  date: '2026-06-15',
+  readingTime: '9 min read',
+  category: 'Personal Growth',
+  cover: '/posts/learning-in-public.png',
+  content: [
+    {
+      type: 'p',
+      text: 'I still remember the terror I felt hitting "Publish" on my first blog post one year ago. What if people laughed? What if I made mistakes in public?'
+    },
+    {
+      type: 'h2',
+      text: 'What Changed'
+    },
+    {
+      type: 'p',
+      text: 'My coding confidence increased dramatically. I built a much stronger network. I learned faster because I had to explain concepts clearly.'
+    },
+    {
+      type: 'h2',
+      text: 'Biggest Lessons'
+    },
+    {
+      type: 'p',
+      text: '1. Your "unfinished" work is valuable. 2. Document your mistakes. 3. Consistency beats perfection.'
+    },
+    {
+      type: 'p',
+      text: 'The fear never fully goes away, but it gets quieter. If you\'re hesitating to share your learning journey, this is your sign.'
+    }
+  ]
+},{
+  slug: 'learning-in-public-one-year-later',
+  title: 'Learning in Public: One Year Later – Lessons from Building in the Open',
+  excerpt: 'One year of sharing my learning journey openly as a developer in Nairobi. What worked, what failed, and why I recommend it.',
+  date: '2026-06-15',
+  readingTime: '9 min read',
+  category: 'Personal Growth',
+  cover: '/posts/learning-in-public.png',
+  content: [
+    {
+      type: 'p',
+      text: 'I still remember the terror I felt hitting "Publish" on my first blog post one year ago. What if people laughed? What if I made mistakes in public?'
+    },
+    {
+      type: 'h2',
+      text: 'What Changed'
+    },
+    {
+      type: 'p',
+      text: 'My coding confidence increased dramatically. I built a much stronger network. I learned faster because I had to explain concepts clearly.'
+    },
+    {
+      type: 'h2',
+      text: 'Biggest Lessons'
+    },
+    {
+      type: 'p',
+      text: '1. Your "unfinished" work is valuable. 2. Document your mistakes. 3. Consistency beats perfection.'
+    },
+    {
+      type: 'p',
+      text: 'The fear never fully goes away, but it gets quieter. If you\'re hesitating to share your learning journey, this is your sign.'
+    }
+  ]
+},{
+  slug: 'learning-in-public-one-year-later',
+  title: 'Learning in Public: One Year Later – Lessons from Building in the Open',
+  excerpt: 'One year of sharing my learning journey openly as a developer in Nairobi. What worked, what failed, and why I recommend it.',
+  date: '2026-06-15',
+  readingTime: '9 min read',
+  category: 'Personal Growth',
+  cover: '/posts/learning-in-public.png',
+  content: [
+    {
+      type: 'p',
+      text: 'I still remember the terror I felt hitting "Publish" on my first blog post one year ago. What if people laughed? What if I made mistakes in public?'
+    },
+    {
+      type: 'h2',
+      text: 'What Changed'
+    },
+    {
+      type: 'p',
+      text: 'My coding confidence increased dramatically. I built a much stronger network. I learned faster because I had to explain concepts clearly.'
+    },
+    {
+      type: 'h2',
+      text: 'Biggest Lessons'
+    },
+    {
+      type: 'p',
+      text: '1. Your "unfinished" work is valuable. 2. Document your mistakes. 3. Consistency beats perfection.'
+    },
+    {
+      type: 'p',
+      text: 'The fear never fully goes away, but it gets quieter. If you\'re hesitating to share your learning journey, this is your sign.'
+    }
+  ]
+},{
+  slug: 'learning-in-public-one-year-later',
+  title: 'Learning in Public: One Year Later – Lessons from Building in the Open',
+  excerpt: 'One year of sharing my learning journey openly as a developer in Nairobi. What worked, what failed, and why I recommend it.',
+  date: '2026-06-15',
+  readingTime: '9 min read',
+  category: 'Personal Growth',
+  cover: '/posts/learning-in-public.png',
+  content: [
+    {
+      type: 'p',
+      text: 'I still remember the terror I felt hitting "Publish" on my first blog post one year ago. What if people laughed? What if I made mistakes in public?'
+    },
+    {
+      type: 'h2',
+      text: 'What Changed'
+    },
+    {
+      type: 'p',
+      text: 'My coding confidence increased dramatically. I built a much stronger network. I learned faster because I had to explain concepts clearly.'
+    },
+    {
+      type: 'h2',
+      text: 'Biggest Lessons'
+    },
+    {
+      type: 'p',
+      text: '1. Your "unfinished" work is valuable. 2. Document your mistakes. 3. Consistency beats perfection.'
+    },
+    {
+      type: 'p',
+      text: 'The fear never fully goes away, but it gets quieter. If you\'re hesitating to share your learning journey, this is your sign.'
+    }
+  ]
+},{
+  slug: 'learning-in-public-one-year-later',
+  title: 'Learning in Public: One Year Later – Lessons from Building in the Open',
+  excerpt: 'One year of sharing my learning journey openly as a developer in Nairobi. What worked, what failed, and why I recommend it.',
+  date: '2026-06-15',
+  readingTime: '9 min read',
+  category: 'Personal Growth',
+  cover: '/posts/learning-in-public.png',
+  content: [
+    {
+      type: 'p',
+      text: 'I still remember the terror I felt hitting "Publish" on my first blog post one year ago. What if people laughed? What if I made mistakes in public?'
+    },
+    {
+      type: 'h2',
+      text: 'What Changed'
+    },
+    {
+      type: 'p',
+      text: 'My coding confidence increased dramatically. I built a much stronger network. I learned faster because I had to explain concepts clearly.'
+    },
+    {
+      type: 'h2',
+      text: 'Biggest Lessons'
+    },
+    {
+      type: 'p',
+      text: '1. Your "unfinished" work is valuable. 2. Document your mistakes. 3. Consistency beats perfection.'
+    },
+    {
+      type: 'p',
+      text: 'The fear never fully goes away, but it gets quieter. If you\'re hesitating to share your learning journey, this is your sign.'
+    }
+  ]
+},{
+  slug: 'learning-in-public-one-year-later',
+  title: 'Learning in Public: One Year Later – Lessons from Building in the Open',
+  excerpt: 'One year of sharing my learning journey openly as a developer in Nairobi. What worked, what failed, and why I recommend it.',
+  date: '2026-06-15',
+  readingTime: '9 min read',
+  category: 'Personal Growth',
+  cover: '/posts/learning-in-public.png',
+  content: [
+    {
+      type: 'p',
+      text: 'I still remember the terror I felt hitting "Publish" on my first blog post one year ago. What if people laughed? What if I made mistakes in public?'
+    },
+    {
+      type: 'h2',
+      text: 'What Changed'
+    },
+    {
+      type: 'p',
+      text: 'My coding confidence increased dramatically. I built a much stronger network. I learned faster because I had to explain concepts clearly.'
+    },
+    {
+      type: 'h2',
+      text: 'Biggest Lessons'
+    },
+    {
+      type: 'p',
+      text: '1. Your "unfinished" work is valuable. 2. Document your mistakes. 3. Consistency beats perfection.'
+    },
+    {
+      type: 'p',
+      text: 'The fear never fully goes away, but it gets quieter. If you\'re hesitating to share your learning journey, this is your sign.'
+    }
+  ]
+},{
+  slug: 'learning-in-public-one-year-later',
+  title: 'Learning in Public: One Year Later – Lessons from Building in the Open',
+  excerpt: 'One year of sharing my learning journey openly as a developer in Nairobi. What worked, what failed, and why I recommend it.',
+  date: '2026-06-15',
+  readingTime: '9 min read',
+  category: 'Personal Growth',
+  cover: '/posts/learning-in-public.png',
+  content: [
+    {
+      type: 'p',
+      text: 'I still remember the terror I felt hitting "Publish" on my first blog post one year ago. What if people laughed? What if I made mistakes in public?'
+    },
+    {
+      type: 'h2',
+      text: 'What Changed'
+    },
+    {
+      type: 'p',
+      text: 'My coding confidence increased dramatically. I built a much stronger network. I learned faster because I had to explain concepts clearly.'
+    },
+    {
+      type: 'h2',
+      text: 'Biggest Lessons'
+    },
+    {
+      type: 'p',
+      text: '1. Your "unfinished" work is valuable. 2. Document your mistakes. 3. Consistency beats perfection.'
+    },
+    {
+      type: 'p',
+      text: 'The fear never fully goes away, but it gets quieter. If you\'re hesitating to share your learning journey, this is your sign.'
+    }
+  ]
+},{
+  slug: 'learning-in-public-one-year-later',
+  title: 'Learning in Public: One Year Later – Lessons from Building in the Open',
+  excerpt: 'One year of sharing my learning journey openly as a developer in Nairobi. What worked, what failed, and why I recommend it.',
+  date: '2026-06-15',
+  readingTime: '9 min read',
+  category: 'Personal Growth',
+  cover: '/posts/learning-in-public.png',
+  content: [
+    {
+      type: 'p',
+      text: 'I still remember the terror I felt hitting "Publish" on my first blog post one year ago. What if people laughed? What if I made mistakes in public?'
+    },
+    {
+      type: 'h2',
+      text: 'What Changed'
+    },
+    {
+      type: 'p',
+      text: 'My coding confidence increased dramatically. I built a much stronger network. I learned faster because I had to explain concepts clearly.'
+    },
+    {
+      type: 'h2',
+      text: 'Biggest Lessons'
+    },
+    {
+      type: 'p',
+      text: '1. Your "unfinished" work is valuable. 2. Document your mistakes. 3. Consistency beats perfection.'
+    },
+    {
+      type: 'p',
+      text: 'The fear never fully goes away, but it gets quieter. If you\'re hesitating to share your learning journey, this is your sign.'
+    }
+  ]
+}{
+  slug: 'learning-in-public-one-year-later',
+  title: 'Learning in Public: One Year Later – Lessons from Building in the Open',
+  excerpt: 'One year of sharing my learning journey openly as a developer in Nairobi. What worked, what failed, and why I recommend it.',
+  date: '2026-06-15',
+  readingTime: '9 min read',
+  category: 'Personal Growth',
+  cover: '/posts/learning-in-public.png',
+  content: [
+    {
+      type: 'p',
+      text: 'I still remember the terror I felt hitting "Publish" on my first blog post one year ago. What if people laughed? What if I made mistakes in public?'
+    },
+    {
+      type: 'h2',
+      text: 'What Changed'
+    },
+    {
+      type: 'p',
+      text: 'My coding confidence increased dramatically. I built a much stronger network. I learned faster because I had to explain concepts clearly.'
+    },
+    {
+      type: 'h2',
+      text: 'Biggest Lessons'
+    },
+    {
+      type: 'p',
+      text: '1. Your "unfinished" work is valuable. 2. Document your mistakes. 3. Consistency beats perfection.'
+    },
+    {
+      type: 'p',
+      text: 'The fear never fully goes away, but it gets quieter. If you\'re hesitating to share your learning journey, this is your sign.'
+    }
+  ]
+},})
+{
+  slug: 'how-i-built-this-blog-2026',
+  title: 'How I Built This Blog with Next.js 15, Tailwind & Vercel',
+  excerpt: 'A complete step-by-step guide on how I built this fast, modern personal blog from scratch.',
+  date: '2026-06-16',
+  readingTime: '12 min read',
+  category: 'Web Development',
+  cover: '/posts/nextjs-blog-2026.png',
+  content: [
+    {
+      type: 'p',
+      text: 'In this post, I’ll walk you through exactly how I built this personal blog from scratch using modern tools.'
+    },
+    {
+      type: 'h2',
+      text: 'Tech Stack Used'
+    },
+    {
+      type: 'p',
+      text: '• Next.js 15 (App Router) • Tailwind CSS + shadcn/ui • TypeScript • Vercel hosting'
+    },
+    {
+      type: 'h2',
+      text: 'Key Decisions & Lessons'
+    },
+    {
+      type: 'p',
+      text: 'I chose the App Router for better performance and easier data fetching. Dark mode was implemented effortlessly with next-themes.'
+    },
+    {
+      type: 'h2',
+      text: 'Performance Results'
+    },
+    {
+      type: 'p',
+      text: 'Lighthouse score: 98/100. First Contentful Paint under 800ms. This blog costs almost nothing to run thanks to Vercel’s free tier.'
+    },
+    {
+      type: 'p',
+      text: 'Would you like me to do a deep dive on any specific part of the stack?'
+    }
+  ]
+},{
+  slug: 'reality-of-self-taught-developer-nairobi',
+  title: 'The Reality of Being a Self-Taught Developer in Nairobi in 2026',
+  excerpt: 'The real challenges and opportunities of learning to code and building a career in tech from Nairobi.',
+  date: '2026-06-17',
+  readingTime: '11 min read',
+  category: 'Personal Growth',
+  cover: '/posts/nairobi-developer-reality.png',
+  content: [
+    {
+      type: 'p',
+      text: 'There’s a romanticized version of tech in Africa, and then there’s the reality.'
+    },
+    {
+      type: 'h2',
+      text: 'The Good'
+    },
+    {
+      type: 'p',
+      text: 'Incredible community support, growing number of opportunities, and a cost of living that allows focus on learning.'
+    },
+    {
+      type: 'h2',
+      text: 'The Challenges'
+    },
+    {
+      type: 'p',
+      text: 'Unreliable internet and power outages, limited junior roles, and expensive learning resources.'
+    },
+    {
+      type: 'h2',
+      text: 'My Survival Strategy'
+    },
+    {
+      type: 'p',
+      text: 'Building in public, contributing to open source, and creating my own projects instead of just following tutorials.'
+    },
+    {
+      type: 'p',
+      text: 'If you’re a developer in Nairobi or any African city, I’d love to hear your story in the comments.'
+    }
+  ]
 }

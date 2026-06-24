@@ -64,13 +64,11 @@ export default function RootLayout({
     >
       <head>
         <meta name="google-adsense-account" content={ADSENSE_PUBLISHER_ID} />
-        <Script
-          id="adsbygoogle-init"
-          async
-          strategy="afterInteractive"
-          crossOrigin="anonymous"
-          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_PUBLISHER_ID}`}
-        />
+        <script 
+  async 
+  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7982441897989391" 
+  crossOrigin="anonymous"
+></script>
       </head>
       <body className="font-sans antialiased">
         <ThemeProvider
